@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\TDM-GCC-64\\bin\\gcc.exe",
+    "files.associations": {
+        "thread": "cpp"
+    }
+}
